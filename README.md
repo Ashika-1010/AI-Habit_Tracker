@@ -175,26 +175,6 @@ This creates:
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard
-
-(Add Screenshot)
-
-### Habit Analytics
-
-(Add Screenshot)
-
-### AI Insights
-
-(Add Screenshot)
-
-### AI Chat Assistant
-
-(Add Screenshot)
-
----
-
 ## 🔮 Future Improvements
 
 * Email Reminders
